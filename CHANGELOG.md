@@ -6,11 +6,11 @@ website: http://dev123.test
 
 ## VERSION 1.2 (2019-02-05)
 
-## Added
+### Added
 
 New Randomization Type (Beta)
 
-## Added
+### Added
 
 Legit Mode (Beta)
 
@@ -22,7 +22,7 @@ Right Mouse Button Autoclicker
 
 ### Added
 
-Functional Right and Left Autoclicker
+Functional Right and Left Mouse Button Autoclicker
 
 ### Fix
 
