@@ -6,7 +6,7 @@ website: http://10.103.17.190/
 
 ## VERSION 1.2 (2019-02-05)
 
-## Removed
+### Removed
 Right Clicker
 
 ## VERSION 1.0 (2019-02-04)
