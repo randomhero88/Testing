@@ -13,12 +13,15 @@ Right Mouse Autoclicker
 ## VERSION 1.0 (2019-02-04)
 
 ### Added
+
 Functional Right and Left Autoclicker
 
 ### Fix
+
 Authentication Timeout Loop
 
 ## UPDATE (2019-02-02)
 
-### New
-Authentication System Is Fully Functional
+### Added
+
+Authentication System
