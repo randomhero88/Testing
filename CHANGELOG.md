@@ -6,6 +6,10 @@ website: http://dev123.test
 
 ## VERSION 1.2 (2019-02-05)
 
+### Fix
+
+Authentication Timeout Loop
+
 ### Added
 
 New Randomization Type (Beta)
@@ -24,12 +28,12 @@ Right Mouse Button Autoclicker
 
 Functional Right and Left Mouse Button Autoclicker
 
-### Fix
+### Implementation
 
-Authentication Timeout Loop
+Authentication System
 
-## UPDATE (2019-02-02)
+## Initial (2019-02-02)
 
 ### Added
 
-Authentication System
+Website and Changelog
