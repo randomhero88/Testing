@@ -4,7 +4,7 @@ website: http://10.103.17.190/
 
 # Change Clicker
 
-## Add typescript support (2017-07-27)
+## VERSION 1.2 (2019-01-05)
 
 ### Removed
 
@@ -12,7 +12,7 @@ Right Mouse Autoclicker
 
 ## VERSION 1.0 (2019-02-04)
 
-### New
+### Added
 Functional Right and Left Autoclicker
 
 ### Fix
@@ -21,4 +21,4 @@ Authentication Timeout Loop
 ## UPDATE (2019-02-02)
 
 ### New
-Authentication System is fully complete.
+Authentication System Is Fully Functional
