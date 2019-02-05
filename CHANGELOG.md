@@ -4,7 +4,7 @@ website: http://10.103.17.190/
 
 # Change Clicker
 
-## VERSION 1.2 (2019-01-05)
+## VERSION 1.2 (2019-02-05)
 
 ### Removed
 
