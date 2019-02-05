@@ -6,9 +6,17 @@ website: http://dev123.test
 
 ## VERSION 1.2 (2019-02-05)
 
+## Added
+
+New Randomization Type (Beta)
+
+## Added
+
+Legit Mode (Beta)
+
 ### Removed
 
-Right Mouse Autoclicker
+Right Mouse Button Autoclicker
 
 ## VERSION 1.0 (2019-02-04)
 
